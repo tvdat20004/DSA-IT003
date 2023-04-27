@@ -1,2 +1,2 @@
 # DSA-IT003
-My OOP excercise 
+My DSA excercise 
